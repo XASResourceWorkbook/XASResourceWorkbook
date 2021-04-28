@@ -4,9 +4,9 @@
 - Lesson 1: Photoelectric Effect, Absorption, and Fluorescence
 - Lesson 2: Introduction to EXAFS
 - Lesson 3: Introduction to XANES 
-- Lesson 4: Interpretin Data
+- Lesson 4: Interpreting Data
 - Lesson 5: Transmission Mode, Pinhole, and Thickness Effects
-- Lesson 6: Fluorescence mode, self-absorption, and inverse fluorescence
+- Lesson 6: Fluorescence mode, Self-absorption, and Inverse Fluorescence
 - Lesson 7: Electron Yield Mode
 - Lesson 8: Synchrotron Magnets and Beamline Optics
 - Lesson 9: X-ray Detectors
