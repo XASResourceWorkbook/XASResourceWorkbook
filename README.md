@@ -20,6 +20,8 @@
 
 Lesson titles are also a work in progress
 
+![alt text](http://url/to/img.png)
+
 <!--
 **XASResourceWorkbook/XASResourceWorkbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
