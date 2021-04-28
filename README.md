@@ -1,4 +1,5 @@
-### Hi there 👋
+### More info about the XAS Resource Workbook is coming soon!
+### Keep an eye out for updates
 
 <!--
 **XASResourceWorkbook/XASResourceWorkbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
