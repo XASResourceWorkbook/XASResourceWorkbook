@@ -26,7 +26,7 @@ Lesson titles are also a work in progress
 
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png?raw=true)
 
-![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo.png?raw=true)
+![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png?raw=true)
 
 
 <!--
