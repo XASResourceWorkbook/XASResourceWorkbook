@@ -20,7 +20,7 @@
 
 Lesson titles are also a work in progress
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png?raw=true)
 
 <!--
 **XASResourceWorkbook/XASResourceWorkbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
