@@ -24,13 +24,13 @@ Lesson titles are also a work in progress
 
 
 <a href="http://easyxafs.com/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png" alt="img not found" width="234" height="65">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png" alt="img not found" width="304" height="84">
 </a>
 <a href="https://www.nsf.gov/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png" alt="img not found" width="130" height="130">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png" alt="img not found" width="169" height="169">
 </a>
 <a href="https://phys.washington.edu/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="234" height="109">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="304" height="142">
 </a>
 
 
