@@ -22,12 +22,15 @@ Lesson titles are also a work in progress
 
 #### Acknowledgements: This work was supported by subcontract to the University of Washington under a National Science Foundation Small business Technology Transfer (STTR) award, Grant No.1937879, made to easyXAFS LLC.  
 
-![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png?raw=true)
-![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png?raw=true)
-![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png?raw=true)
 
+<a href="http://easyxafs.com/">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png" alt="img not found" width="200" height="50">
+</a>
+<a href="https://www.nsf.gov/">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png" alt="img not found" width="100" height="100">
+</a>
 <a href="https://phys.washington.edu/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="150" height="70">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="180" height="84">
 </a>
 
 
