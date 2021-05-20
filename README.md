@@ -26,6 +26,10 @@ Lesson titles are also a work in progress
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png?raw=true)
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png?raw=true)
 
+<a href="https://phys.washington.edu/">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="150" height="70">
+</a>
+
 
 <!--
 **XASResourceWorkbook/XASResourceWorkbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
