@@ -24,7 +24,7 @@ Lesson titles are also a work in progress
 
 
 <a href="http://easyxafs.com/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png" alt="img not found" width="304" height="84">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo2.png" alt="img not found" width="304" height="84">
 </a>
 <a href="https://www.nsf.gov/">
 <img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png" alt="img not found" width="169" height="169">
