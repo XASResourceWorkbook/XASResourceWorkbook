@@ -23,9 +23,7 @@ Lesson titles are also a work in progress
 #### Acknowledgements: This work was supported by subcontract to the University of Washington under a National Science Foundation Small business Technology Transfer (STTR) award, Grant No.1937879, made to easyXAFS LLC.  
 
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo.png?raw=true)
-
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png?raw=true)
-
 ![alt text](https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png?raw=true)
 
 
