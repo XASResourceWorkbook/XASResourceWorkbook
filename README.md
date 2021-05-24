@@ -1,5 +1,8 @@
 ## More info about the XAS Resource Workbook is coming soon!
-### The most up-to-date draft for each lesson will soon be made available in PDF and Word Document formats. 
+### The most up-to-date draft for each lesson will soon be made available in Word Document format.
+
+#### Update (May 24th, 2021): Blanks versions of Lessons 1-6 have been added to the repository. Solutions are still under review and will be added once they have made it through the editing process.
+ 
 ### Current lessons include
 - Lesson 1: Photoelectric Effect, Absorption, and Fluorescence
 - Lesson 2: Introduction to EXAFS
