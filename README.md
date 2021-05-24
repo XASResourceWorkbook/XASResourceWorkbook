@@ -1,7 +1,7 @@
 ## More info about the XAS Resource Workbook is coming soon!
 
 <a href="https://github.com/XASResourceWorkbook/XASResourceWorkbook/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/XAS-RW_Logo.png" alt="img not found" width="500" height="126">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/XAS-RW_Logo.png" alt="img not found" width="1000" height="260">
 </a>
 
 ### The most up-to-date draft for each lesson will soon be made available in Word Document format.
