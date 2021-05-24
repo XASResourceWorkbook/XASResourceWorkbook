@@ -1,4 +1,9 @@
 ## More info about the XAS Resource Workbook is coming soon!
+
+<a href="https://github.com/XASResourceWorkbook/XASResourceWorkbook/">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/XAS-RW_Logo.png" alt="img not found" width="500" height="126">
+</a>
+
 ### The most up-to-date draft for each lesson will soon be made available in Word Document format.
 
 #### Update (May 24th, 2021): Blanks versions of Lessons 1-6 have been added to the repository. Solutions are still under review and will be added once they have made it through the editing process.
@@ -27,13 +32,13 @@ Lesson titles are also a work in progress
 
 
 <a href="http://easyxafs.com/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/easyXAFS_logo2.png" alt="img not found" width="304" height="84">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/easyXAFS_logo2.png" alt="img not found" width="304" height="84">
 </a>
 <a href="https://www.nsf.gov/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/NSF_logo.png" alt="img not found" width="169" height="169">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/NSF_logo.png" alt="img not found" width="169" height="169">
 </a>
 <a href="https://phys.washington.edu/">
-<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/AcknowledgementLogos/UW_logo2.png" alt="img not found" width="304" height="142">
+<img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/UW_logo2.png" alt="img not found" width="304" height="142">
 </a>
 
 
