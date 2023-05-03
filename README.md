@@ -1,12 +1,10 @@
-## More info about the XAS Resource Workbook is coming soon!
+## XAS Resource Workbook
 
 <a href="https://github.com/XASResourceWorkbook/XASResourceWorkbook/">
 <img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/XAS-RW_Logo_2.png" alt="img not found" width="1020" height="430">
 </a>
 
-### The most up-to-date draft for each lesson will soon be made available in Word Document format.
-
-#### Update (May 24th, 2021): Blanks versions of Lessons 1-6 have been added to the repository. Solutions are still under review and will be added once they have made it through the editing process.
+#### Reviewed versions of Lessons 1-6 have been made available. Microsoft Word versions of all other lessons are avialable in `Lessons 7-16 Raw` but are still in draft format and have not been thuroughly peer reviewed.
  
 ### Current lessons include
 - Lesson 1: Photoelectric Effect, Absorption, and Fluorescence
@@ -26,8 +24,6 @@
 - Lesson 15: Writing a Beamline Proposal
 - Lesson 16: X-ray Raman Scattering
 
-Lesson titles are also a work in progress
-
 #### Acknowledgements: This work was supported by subcontract to the University of Washington under a National Science Foundation Small business Technology Transfer (STTR) award, Grant No.1937879, made to easyXAFS LLC.  
 
 
@@ -40,19 +36,3 @@ Lesson titles are also a work in progress
 <a href="https://phys.washington.edu/">
 <img src="https://github.com/XASResourceWorkbook/XASResourceWorkbook/blob/main/LogoImages/UW_logo2.png" alt="img not found" width="304" height="142">
 </a>
-
-
-<!--
-**XASResourceWorkbook/XASResourceWorkbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
